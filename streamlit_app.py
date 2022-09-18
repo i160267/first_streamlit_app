@@ -10,5 +10,5 @@ streamlit.text('Cheese Omlette')
 
 streamlit.header('Breakfast Menu New')
 
-streamlit.text('Pancakes')
-streamlit.text('Cheese Omlette, toasts')
+streamlit.text('🍞 Pancakes')
+streamlit.text('🥑 Cheese Omlette, toasts')
